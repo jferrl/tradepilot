@@ -1,0 +1,2 @@
+# tradepilot
+Trading bot
